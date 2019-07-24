@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tdtb12/LayoutPractice/static/css/main.21c553e1.chunk.css",
-    "main.js": "/tdtb12/LayoutPractice/static/js/main.4e7ef105.chunk.js",
-    "main.js.map": "/tdtb12/LayoutPractice/static/js/main.4e7ef105.chunk.js.map",
-    "runtime~main.js": "/tdtb12/LayoutPractice/static/js/runtime~main.d56d461a.js",
-    "runtime~main.js.map": "/tdtb12/LayoutPractice/static/js/runtime~main.d56d461a.js.map",
-    "static/js/2.d6a534e5.chunk.js": "/tdtb12/LayoutPractice/static/js/2.d6a534e5.chunk.js",
-    "static/js/2.d6a534e5.chunk.js.map": "/tdtb12/LayoutPractice/static/js/2.d6a534e5.chunk.js.map",
-    "index.html": "/tdtb12/LayoutPractice/index.html",
-    "precache-manifest.b5456634dfa4e77d2f09413c3357b036.js": "/tdtb12/LayoutPractice/precache-manifest.b5456634dfa4e77d2f09413c3357b036.js",
-    "service-worker.js": "/tdtb12/LayoutPractice/service-worker.js",
-    "static/css/main.21c553e1.chunk.css.map": "/tdtb12/LayoutPractice/static/css/main.21c553e1.chunk.css.map"
+    "main.css": "/LayoutPractice/static/css/main.21c553e1.chunk.css",
+    "main.js": "/LayoutPractice/static/js/main.c9d48eb4.chunk.js",
+    "main.js.map": "/LayoutPractice/static/js/main.c9d48eb4.chunk.js.map",
+    "runtime~main.js": "/LayoutPractice/static/js/runtime~main.67435369.js",
+    "runtime~main.js.map": "/LayoutPractice/static/js/runtime~main.67435369.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/LayoutPractice/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/LayoutPractice/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/LayoutPractice/index.html",
+    "precache-manifest.e9956d72abed84d85d021082a5165cd8.js": "/LayoutPractice/precache-manifest.e9956d72abed84d85d021082a5165cd8.js",
+    "service-worker.js": "/LayoutPractice/service-worker.js",
+    "static/css/main.21c553e1.chunk.css.map": "/LayoutPractice/static/css/main.21c553e1.chunk.css.map"
   }
 }
